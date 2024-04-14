@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m currently working on Prime-Scripts<br> ⚙ I’m currently learning JavaScript
+👯 I’m currently working on ...<br> ⚙ I’m currently learning Java
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/285315948544524288)](https://discord.com/users/285315948544524288)
 
