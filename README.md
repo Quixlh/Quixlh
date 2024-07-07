@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m currently working on ...<br> ⚙ I’m currently learning Java
+👯 I’m currently working on ...<br> ⚙ I’m currently learning Javascript
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/285315948544524288)](https://discord.com/users/285315948544524288)
 
