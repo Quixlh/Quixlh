@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m currently working on NOTHING<br>⚙ I’m currently learning Javascript and HTML/CSS
+👯 I’m currently working on Senora City<br>⚙ I’m currently learning Javascript and HTML/CSS
 
 
 ## 🌐 Socials:
